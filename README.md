@@ -1,0 +1,1 @@
+# avitotech_ml_cup_2024
