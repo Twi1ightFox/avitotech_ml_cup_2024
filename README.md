@@ -190,6 +190,8 @@
    
    (Дополнительные таблицы для проекта)[https://ods.ai/competitions/avitotechmlcup2024/dataset]
    
-3. Запустить Jupyter notebook для просмотра и запуска анализа.
+3. Установите необходимые библиотеки и версии из файла requirements.txt
+   
+4. Запустить Jupyter notebook для просмотра и запуска.
 
 :arrow_up:[к оглавлению](#оглавление)
