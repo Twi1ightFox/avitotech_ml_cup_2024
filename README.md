@@ -96,8 +96,11 @@
 :arrow_up:[к оглавлению](#оглавление)
 
 ### ***Структура проекта***
-
-- [avitotech-ml-cup-2024.ipynb](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/avitotech-ml-cup-2024.ipynb): Jupyter ноутбук.
+- [baseline-catboost.ipynb](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/baseline-catboost.ipynb): Jupyter ноутбук базового решения.
+- [avitotech-ml-cup-2024.ipynb](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/avitotech-ml-cup-2024.ipynb): Jupyter ноутбук итогового решения.
+- [requirements.txt](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/requirements.txt): Файл с зависимостями.
+- [submission_v1.csv](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/submission_v1.csv): сабмит бейзлайна.
+- [sample_submission_f.zip](https://github.com/Twi1ightFox/avitotech_ml_cup_2024/blob/master/sample_submission_f.zip): рхив с файлом сабита финального.
 - [README.md](https://github.com/Dashaklen/Project_2_HH/blob/master/README.md): Описание проекта.
 
 :arrow_up:[к оглавлению](#оглавление)
